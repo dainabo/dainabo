@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dainabo
-- 👀 I’m interested in illustration, web design and cats
-- 🌱 I’m currently learning Java, Javascript, HTML, CSS 
+- 👀 I’m interested in web design, UI/UX and IT Support
+- 🌱 I’m currently learning HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on...nothing yet, still some learning to do :)
-- 📫 How to reach me ...
 
 <!---
 dainabo/dainabo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
